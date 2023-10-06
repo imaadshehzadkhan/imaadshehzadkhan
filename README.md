@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Blogger
 
-CO Founder ADTS algodream.in
+  - Co-Founder ADTS https://www.algodream.in
 
 🌐 Find me on the web:
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
