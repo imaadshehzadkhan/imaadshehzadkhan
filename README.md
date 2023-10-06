@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @imaadshehzadkhan
-- 👀 I’m currently learing web development ,Javascript ,Python
-- 🌱 I’m currently working on algodream.in
-- 💞️ I’m looking to collaborate on dreamersmovement.com
-- 📫 How to reach me ... imaad@algodream.in
-- know about my experiences linkedin.com/imaadshehzad
+👋 Hello, I'm Imaad Shehzad
 
-<!---
-imaadshehzadkhan/imaadshehzadkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full-Stack Developer | Open Source Enthusiast | Tech Blogger
+
+CO Founder ADTS algodream.in
+
+🌐 Find me on the web:
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Instagram](https://www.instagram.com/imaadkhanx/)
+- [Twitter](https://twitter.com/imaadshehzad)
+
+🔧 Technologies I love working with:
+- JavaScript | TypeScript | Python
+- React | Node.js | Express
+- SQL | MongoDB | Firebase
+- Git | GitHub Actions | CI/CD
+
+🌱 I'm passionate about:
+- Building web applications that make a difference
+- Contributing to open source projects
+- Writing tech articles to share knowledge
+
+💌 Let's connect and collaborate on exciting projects together! Feel free to reach out.
