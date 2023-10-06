@@ -2,8 +2,6 @@
 
 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Blogger
 
-  - Co-Founder  ADTS  [ https://www.algodream.in  ]
-
 🌐 Find me on the web:
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Instagram](https://www.instagram.com/imaadkhanx/)
