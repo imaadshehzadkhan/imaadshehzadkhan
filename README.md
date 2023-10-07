@@ -3,7 +3,7 @@
 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Blogger
 
 🌐 Find me on the web:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](www.linkedin.com/in/imaad-shehzad-3a8670294)
 - [Instagram](https://www.instagram.com/imaadkhanx/)
 - [Twitter](https://twitter.com/imaadshehzad)
 
