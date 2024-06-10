@@ -8,10 +8,8 @@
 - [Twitter](https://twitter.com/imaadshehzad)
 
 🔧 Technologies I love working with:
-- JavaScript | TypeScript | Python
-- React | Node.js | Express
-- SQL | MongoDB | Firebase
-- Git | GitHub Actions | CI/CD
+ | JavaScript | Python | Kotlin |
+ | SQl
 
 🌱 I'm passionate about:
 - Building web applications that make a difference
